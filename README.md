@@ -30,31 +30,31 @@ git clone https://github.com/yourusername/mental-health-multiagent-chatbot.git
 cd mental-health-multiagent-chatbot
 ```
 
-
-### 2. Install Requirements
-
-```pip install -r requirements.txt \n python -m spacy download en_core_web_sm```
-
-
-### 3. Add Your PDFs
+### 2. Add Your PDFs
 
 Place your mental health knowledge PDFs in the `./data/` directory.
 
-### 4. Set Up API Keys
+### 3. Set Up API Keys
 
 Set your Groq API key as an environment variable:
 
-```export GROQ_API_KEY=your_groq_api_key_here```
+```bash
+export GROQ_API_KEY=your_groq_api_key_here
+```
 
 
-### 5. Run the Chatbot
+### 4. Run the Chatbot
 
 **CLI:**
-```python main.py```
+```bash
+python main.py
+```
 
 
 **Gradio Web UI:**
-```python main.py```
+```bash
+python main.py
+```
 Then type 'gradio' at the prompt
 
 ## Example
