@@ -72,5 +72,3 @@ Chatbot: It's completely normal to feel anxious before exams. Here are some stra
 MIT License
 
 ---
-
-*Developed as part of a research internship at the CAMIT Center, VIT Chennai.*
