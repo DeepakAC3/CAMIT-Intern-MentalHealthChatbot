@@ -25,14 +25,12 @@ A context-aware, empathetic mental health chatbot built with Retrieval-Augmented
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/mental-health-multiagent-chatbot.git
-cd mental-health-multiagent-chatbot
+```git clone https://github.com/yourusername/mental-health-multiagent-chatbot.git \n cd mental-health-multiagent-chatbot```
 
 
 ### 2. Install Requirements
 
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
+```pip install -r requirements.txt \n python -m spacy download en_core_web_sm```
 
 
 ### 3. Add Your PDFs
@@ -43,17 +41,17 @@ Place your mental health knowledge PDFs in the `./data/` directory.
 
 Set your Groq API key as an environment variable:
 
-export GROQ_API_KEY=your_groq_api_key_here
+```export GROQ_API_KEY=your_groq_api_key_here```
 
 
 ### 5. Run the Chatbot
 
 **CLI:**
-python main.py
+```python main.py```
 
 
 **Gradio Web UI:**
-python main.py
+```python main.py```
 Then type 'gradio' at the prompt
 
 ## Example
