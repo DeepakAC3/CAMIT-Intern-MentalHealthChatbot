@@ -26,7 +26,9 @@ A context-aware, empathetic mental health chatbot built with Retrieval-Augmented
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mental-health-multiagent-chatbot.git \n cd mental-health-multiagent-chatbot```
+git clone https://github.com/yourusername/mental-health-multiagent-chatbot.git
+cd mental-health-multiagent-chatbot
+```
 
 
 ### 2. Install Requirements
