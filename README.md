@@ -57,6 +57,9 @@ python main.py
 ```
 Then type 'gradio' at the prompt
 
+**Telegram Bot**
+Run the last cell
+
 ## Example
 
 You: I'm feeling anxious about my exams.
