@@ -57,7 +57,8 @@ python main.py
 ```
 Then type 'gradio' at the prompt
 
-**Telegram Bot**
+**Telegram Bot:**
+
 Run the last cell
 
 ## Example
