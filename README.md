@@ -59,8 +59,9 @@ Then type 'gradio' at the prompt
 
 **Telegram Bot:**
 
-Run the last cell
+Run the appropriate cell
 
+---
 ## Working Video
 
 https://youtu.be/VkGJgjt75Lw
