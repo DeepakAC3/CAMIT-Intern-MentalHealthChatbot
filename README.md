@@ -61,11 +61,9 @@ Then type 'gradio' at the prompt
 
 Run the last cell
 
-## Example
+## Working Video
 
-You: I'm feeling anxious about my exams.
-Chatbot: It's completely normal to feel anxious before exams. Here are some strategies...
-
+https://youtu.be/VkGJgjt75Lw
 
 ## Technologies Used
 
